@@ -8,10 +8,10 @@ export const componentsByNetworkId: Record<NetworkId, NetworkComponents | undefi
   testnet: {
     //home: 'near-examples.testnet/widget/HelloNEAR',
     //home: 'vex-hackathon.testnet/widget/VEXNavbar',
-    home: 'sourcescan.testnet/widget/SourceScan',
+    //home: 'sourcescan.testnet/widget/SourceScan',
   },
 
   mainnet: {
-    home: '',
+    home: 'amandaalexbr.near/widget/VexHomepage',
   },
 };
