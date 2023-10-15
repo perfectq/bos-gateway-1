@@ -7,6 +7,7 @@ type NetworkComponents = {
 export const componentsByNetworkId: Record<NetworkId, NetworkComponents | undefined> = {
   testnet: {
     home: 'near-examples.testnet/widget/HelloNEAR',
+    home: 'vex-hackathon.testnet/widget/VEXNavbar',
   },
 
   mainnet: {
